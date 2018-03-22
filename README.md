@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/bitnami-labs/kube-manifests.svg?branch=master)](https://travis-ci.org/bitnami-labs/kube-manifests)
+# kube-libsonnet
 # Bitnami kube-manifests
 
 A collection of misc kubernetes configs for various jobs, as used in
